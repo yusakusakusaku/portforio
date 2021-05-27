@@ -243,13 +243,13 @@ section {
 }
 
 #service_item1 {
-  background-image: url('img/serviceitem1.jpg');
+  background-image: url('serviceitem1.jpg');
 }
 #service_item2 {
-  background-image: url('img/serviceitem2.jpg');
+  background-image: url('serviceitem2.jpg');
 }
 #service_item3 {
-  background-image: url('img/serviceitem3.jpg');
+  background-image: url('serviceitem3.jpg');
 }
 
 @media (max-width: 420px) {
